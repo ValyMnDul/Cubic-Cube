@@ -11,7 +11,6 @@ Scopul este să ajungi la finalul fiecărui nivel,pentru a elimina BRAINROT-ul, 
 🔹 Stil vizual: Minimalist, axat pe forme simple și culori curate
 🔹 Realizat în:12 ore
 
-
 TECH:
 -Jocul folosește fizica încorporată din Unity pentru mișcarea și interacțiunea cubului cu lumea (adică Rigidbody 3D, BoxCollider etc). Nu e mișcare pur matematică, ci bazată pe motorul de fizică.
 -Codul este scris modular, adică:
@@ -21,9 +20,9 @@ TECH:
 -Se folosește Canvas cu elemente de UI.
 -Cuburile și obiectele sunt acoperite cu materiale standard Unity (posibil cu shader Standard sau Mobile/Diffuse) pentru performanță maximă.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-DOWNLOAD LINK:https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=drive_link
+DOWNLOAD LINK:https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=drive_link ENJOY
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
