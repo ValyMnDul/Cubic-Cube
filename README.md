@@ -14,8 +14,8 @@ Scopul este să ajungi la finalul fiecărui nivel,pentru a elimina BRAINROT-ul, 
 TECH:  
 -Jocul folosește fizica încorporată din Unity pentru mișcarea și interacțiunea cubului cu lumea (adică Rigidbody 3D, BoxCollider etc). Nu e mișcare pur matematică, ci bazată pe motorul de fizică.  
 -Codul este scris modular, adică:  
-    -Componente separate pe GameObjects  
-    -Clase diferite pentru controlul jucătorului, obstacole, management de nivel etc.  
+      +Componente separate pe GameObjects  
+      +Clase diferite pentru controlul jucătorului, obstacole, management de nivel etc.  
 -Jocul citește inputurile direct din Input.GetKey, Input.GetAxis.  
 -Se folosește Canvas cu elemente de UI.  
 -Cuburile și obiectele sunt acoperite cu materiale standard Unity (posibil cu shader Standard sau Mobile/Diffuse) pentru performanță maximă.  
