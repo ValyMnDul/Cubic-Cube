@@ -19,6 +19,8 @@ TECH:
 -Jocul citește inputurile direct din Input.GetKey, Input.GetAxis.  
 -Se folosește Canvas cu elemente de UI.  
 -Cuburile și obiectele sunt acoperite cu materiale standard Unity (posibil cu shader Standard sau Mobile/Diffuse) pentru performanță maximă.  
+
+⚠️ Notă: Fișierul este mai mare de 25MB, de aceea Google Drive nu îl poate scana automat pentru viruși. Jocul este 100% sigur.
   
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
   
