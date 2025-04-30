@@ -1,29 +1,29 @@
 **# Cubic_Cube**  
-## Hackovina2025 project-CubicCube  
+## Hackovina2025 Project-Cubic Cube  
   
-"**Cubic Cube**" este un joc platformer minimalist dezvoltat în Unity, în cadrul competiției **Hackovina 2025**.  
-Controlezi un cub într-un univers geometric, navigând prin obstacole și provocări de precizie.  
-Scopul este să ajungi la finalul fiecărui nivel,pentru a elimina BRAINROT-ul, folosindu-ți logica spațială și reflexele rapide.  
+**"Cubic Cube"** is a minimalist platformer game developed in Unity during the **Hackovina 2025** competition.  
+You control a cube in a geometric universe, navigating through obstacles and precision-based challenges.   
+The goal is to reach the end of each level to eliminate the **enemy**, using your spatial logic and quick reflexes.  
   
-🔹 **Gen**: Platformer  
+🔹 **Genre**: Platformer  
 🔹 **Engine**: Unity  
-🔹 **Platformă**: PC  
-🔹 **Stil vizual**: Minimalist, axat pe forme simple și culori curate  
-🔹 **Realizat în**:12 ore  
-  
-**TECH:**  
-- Jocul folosește fizica încorporată din Unity pentru mișcarea și interacțiunea cubului cu lumea (adică Rigidbody 3D, BoxCollider etc). Nu e mișcare pur matematică, ci bazată pe motorul de fizică.  
-- Codul este scris modular, adică:  
-&nbsp;&nbsp;&nbsp;&nbsp;- Componente separate pe GameObjects  
-&nbsp;&nbsp;&nbsp;&nbsp;- Clase diferite pentru controlul jucătorului, obstacole, management de nivel etc.  
-- Jocul citește inputurile direct din Input.GetKey, Input.GetAxis.  
-- Se folosește Canvas cu elemente de UI.  
-- Cuburile și obiectele sunt acoperite cu materiale standard Unity (posibil cu shader Standard sau Mobile/Diffuse) pentru performanță maximă.  
+🔹 **Platform**: PC  
+🔹 **Visual Style**: Minimalist, focused on simple shapes and clean colors  
+🔹 **Development Time**: 12 hours  
 
-⚠️ **Notă**: Fișierul este mai mare de 25MB, de aceea Google Drive nu îl poate scana automat pentru viruși. Jocul este 100% sigur.  
-Poți verifica cu acest sha256sum:"**4c80840f4b052b98afdd232acf372cf4a83703172b70004fa43ed2b9d773f93c**"  
+### **TECH** 
+- The game uses Unity's built-in physics for cube movement and interaction with the world (i.e., `Rigidbody 3D`, `BoxCollider`, etc.). Movement is physics-based, not purely mathematical.  
+- The code is written modularly, meaning:  
+  - Separate components on GameObjects  
+  - Different classes for player control, obstacles, level management, etc.  
+- Inputs are read directly using `Input.GetKey`, `Input.GetAxis`.  
+- A `Canvas` with UI elements is used.  
+- Cubes and objects are rendered with Unity’s standard materials (likely using the `Standard` or `Mobile/Diffuse` shader) for maximum performance.  
+
+⚠️ **Note**: The file is larger than 25MB, so Google Drive cannot automatically scan it for viruses. The game is 100% safe.  
+You can verify it using the following `sha256sum`:"**4c80840f4b052b98afdd232acf372cf4a83703172b70004fa43ed2b9d773f93c**"  
   
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
+---
   
 **DOWNLOAD LINK**:https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=sharing  
 **ITCH LINK**:https://valymnd-bot.itch.io/cubic-cube/devlog/933688/cubic-cube 
