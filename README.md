@@ -21,8 +21,7 @@ The goal is to reach the end of each level to eliminate the **enemy**, using you
 - Cubes and objects are rendered with Unity’s standard materials (likely using the `Standard` or `Mobile/Diffuse` shader) for maximum performance.  
 
 ⚠️ **Note**: The file is larger than 25MB, so Google Drive cannot automatically scan it for viruses. The game is 100% safe.  
-You can verify it using the following `sha256sum`:   
-<pre>**4c80840f4b052b98afdd232acf372cf4a83703172b70004fa43ed2b9d773f93c**</pre>   
+You can verify it using the following `sha256sum`:<pre>**4c80840f4b052b98afdd232acf372cf4a83703172b70004fa43ed2b9d773f93c**</pre>   
   
 ---
 
