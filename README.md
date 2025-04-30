@@ -11,7 +11,7 @@ The goal is to reach the end of each level to eliminate the **enemy**, using you
 🔹 **Visual Style**: Minimalist, focused on simple shapes and clean colors  
 🔹 **Development Time**: 12 hours  
 
-### **TECH** 
+### **TECH:** 
 - The game uses Unity's built-in physics for cube movement and interaction with the world (i.e., `Rigidbody 3D`, `BoxCollider`, etc.). Movement is physics-based, not purely mathematical.  
 - The code is written modularly, meaning:  
   - Separate components on GameObjects  
@@ -25,9 +25,9 @@ You can verify it using the following `sha256sum`:"**4c80840f4b052b98afdd232acf3
   
 ---
   
-**DOWNLOAD LINK**:https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=sharing  
-**ITCH LINK**:https://valymnd-bot.itch.io/cubic-cube/devlog/933688/cubic-cube 
+**DOWNLOAD LINK**: [Google Drive](https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=sharing)  
+**ITCH LINK**: [Itch.io](https://valymnd-bot.itch.io/cubic-cube/devlog/933688/cubic-cube)
   
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
+---
   
 
