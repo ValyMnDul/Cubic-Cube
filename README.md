@@ -1,4 +1,4 @@
-**# Cubic_Cube**  
+# Cubic_Cube
 ## Hackovina2025 Project-Cubic Cube  
   
 **"Cubic Cube"** is a minimalist platformer game developed in Unity during the **Hackovina 2025** competition.  
