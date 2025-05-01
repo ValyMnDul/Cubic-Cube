@@ -42,3 +42,6 @@ You can verify it using the following `sha256sum`:
 ### Enjoy   
 ![Unity_Banner](./MD_Assets/Unity_Banner.gif)   
 
+### License
+This project is open-source under the MIT License.
+
