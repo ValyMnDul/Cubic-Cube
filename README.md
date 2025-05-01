@@ -11,8 +11,11 @@ The goal is to reach the end of each level to eliminate the **enemy**, using you
 🔹 **Visual Style**: Minimalist, focused on simple shapes and clean colors  
 🔹 **Development Time**: 12 hours  
 
-> **Main to level selector:**  
+> #### **Main to level selector**  
 > ![Menu_To_Level_Selector](./MD_Assets/Menu_To_Level_Selector.gif)
+> 
+> #### **Pause menu**  
+> ![Pause_Menu](./MD_Assets/Mini_Menu.gif)  
 
 ### **TECH:** 
 - The game uses Unity's built-in physics for cube movement and interaction with the world (`Rigidbody 3D`, `BoxCollider`, etc.). Movement is physics-based, not purely mathematical.  
@@ -36,5 +39,6 @@ You can verify it using the following `sha256sum`:
   
 ---
    
-### Enjoy
+### Enjoy   
+![Unity_Banner](./MD_Assets/Unity_Banner.gif)   
 
