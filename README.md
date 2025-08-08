@@ -34,8 +34,8 @@ You can verify it using the following `sha256sum`:
 
 ---
 
-**DOWNLOAD LINK**: [Google Drive (RAR) ](https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=sharing)  
-**ITCH LINK**: [Itch](https://valymnd-bot.itch.io/cubic-cube/devlog/933688/cubic-cube)
+**DOWNLOAD LINK**: [Google Drive](https://drive.google.com/file/d/1POb5UWBV8Yom6cKfKRNDR4_vv_KtKK8f/view?usp=sharing)  
+**ITCH LINK**: [Itch.io](https://valymnd-bot.itch.io/cubic-cube/devlog/933688/cubic-cube)
   
 ---
    
