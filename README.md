@@ -39,5 +39,5 @@ You can verify it using the following `sha256sum`:
   
 ---
    
-### Enjoy   
+### Enjoy !   
 
