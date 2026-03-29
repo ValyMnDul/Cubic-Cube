@@ -5,11 +5,11 @@
 You control a cube in a geometric universe, navigating through obstacles and precision-based challenges.   
 The goal is to reach the end of each level to eliminate the **enemy**, using your spatial logic and quick reflexes.  
   
-🔹 **Genre**: Platformer  
-🔹 **Engine**: Unity  
-🔹 **Platform**: PC  
-🔹 **Visual Style**: Minimalist, focused on simple shapes and clean colors  
-🔹 **Development Time**: 12 hours  
+- **Genre**: Platformer  
+- **Engine**: Unity  
+- **Platform**: PC  
+- **Visual Style**: Minimalist, focused on simple shapes and clean colors  
+- **Development Time**: 12 hours  
 
 > #### **Main to level selector**  
 > ![Menu_To_Level_Selector](./MD_Assets/Menu_To_Level_Selector.gif)
@@ -17,7 +17,7 @@ The goal is to reach the end of each level to eliminate the **enemy**, using you
 > #### **Pause menu**  
 > ![Pause_Menu](./MD_Assets/Mini_Menu.gif)  
 
-### **TECH:** 
+## **TECH:** 
 - The game uses Unity's built-in physics for cube movement and interaction with the world (`Rigidbody 3D`, `BoxCollider`, etc.). Movement is physics-based, not purely mathematical.  
 - The code is written modularly, meaning:  
   - Separate components on GameObjects  
@@ -26,7 +26,7 @@ The goal is to reach the end of each level to eliminate the **enemy**, using you
 - A `Canvas` with UI elements is used.  
 - Cubes and objects are rendered with Unity’s standard materials (likely using the `Standard` or `Mobile/Diffuse` shader) for maximum performance.  
 
-⚠️ **Note**: The file is larger than 25MB, so Google Drive cannot automatically scan it for viruses. The game is 100% safe.  
+**Note**: The file is larger than 25MB, so Google Drive cannot automatically scan it for viruses. The game is 100% safe.  
 You can verify it using the following `sha256sum`:
 ```
 4c80840f4b052b98afdd232acf372cf4a83703172b70004fa43ed2b9d773f93c
